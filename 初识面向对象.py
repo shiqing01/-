@@ -25,6 +25,6 @@ class Teacher:
         else:
             print("sorry, 我不会english")
 
-stu1= Student("小冯", "coding")
-teacher1 = Teacher("晴姐", "young", stu1)
+stu1= Student("dd", "coding")
+teacher1 = Teacher("jj", "young", stu1)
 teacher1.impart()
